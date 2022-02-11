@@ -1,3 +1,5 @@
 /class_notes
 .DS_Store
 app/node_modules
+todolist/node_modules
+userdemo/node_modules
